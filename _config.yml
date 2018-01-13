@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -16,7 +16,7 @@ description              : "Here is Woojoong's web site. It shows my CV, researc
 url                      : "https://woojoong88.github.io"
 baseurl                  : #"/cv"
 repository               : #"woojoong88/woojoong88.github.io"
-teaser                   : "/assets/images/profile.png"
+teaser                   : #"/assets/images/profile.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,25 +83,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Woojoong Kim"
+  avatar           : "/assets/images/profile.png"
+  bio              : "I am a Ph.D Student in Pohang University of Science and Technology (POSTECH), South Korea. Also, I am a research scholar in Open Networking Foundation (ONF), Menlo Park, CA, US."
+  location         : "Menlo Park, CA, US && Pohang, South Korea"
+  email            : "woojoong[at]postech.ac.kr"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/woojoong88"
   foursquare       :
-  github           :
+  github           : "https://github.com/woojoong88/"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/woojoong88/"
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "https://www.linkedin.com/in/woojoong/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
