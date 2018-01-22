@@ -185,7 +185,7 @@ date: 2018-01-20T22:20:52+00:00
 
 ##### Military Projects
 * Implementation and Maintenance of Single Sign On (SSO) for Intranet of Republic of Korea Air Force (ROKAF)
-  * Period: 2008.05-2010.03
+    * Period: 2008.05-2010.03
 
 ### Skills
 ##### Language Proficiency
@@ -207,12 +207,12 @@ date: 2018-01-20T22:20:52+00:00
 * Playing guitar
 * Playing golf and baseball (Infield player and catcher)
 * Movie
-  * Si-Fi, Comedy, Drama, Thriller, etc.
+    * Si-Fi, Comedy, Drama, Thriller, etc.
 * Programming
-  * Analysis of kernel code
-  * Analysis of open-source software
-  * Customization of kernel, open-source softwares, etc
-  * Any other programming I want
+    * Analysis of kernel code
+    * Analysis of open-source software
+    * Customization of kernel, open-source softwares, etc
+    * Any other programming I want
 ### Teaching Assistant
 * CSED 273: Digital System Design (Undergraduage Course Work), Spring 2016.
 * CSED 273: Digital System Design (Undergraduage Course Work), Spring 2015.
