@@ -191,6 +191,7 @@ date: 2018-01-20T22:20:52+00:00
 ##### Language Proficiency
 * Korean: Native
 * English: Full professional proficiency
+
 ##### Programming Language Skills
 * JAVA and JAVA JSP
 * C/C++
@@ -198,11 +199,13 @@ date: 2018-01-20T22:20:52+00:00
 * Linux/Unix Shell script
 * LaTex
 * SQL
+
 ##### Framework Programming Skills
 * Spring Framwork
 * Struts Framework
 * Open Network Operating System (ONOS)
 * Central Office Re-architecting as a Datacenter (CORD)
+
 ### Hobby
 * Playing guitar
 * Playing golf and baseball (Infield player and catcher)
@@ -213,9 +216,11 @@ date: 2018-01-20T22:20:52+00:00
     * Analysis of open-source software
     * Customization of kernel, open-source softwares, etc
     * Any other programming I want
+
 ### Teaching Assistant
 * CSED 273: Digital System Design (Undergraduage Course Work), Spring 2016.
 * CSED 273: Digital System Design (Undergraduage Course Work), Spring 2015.
 * CSED101: Programming \& Problem Solving (Undergraduate Course Work), Spring 2014.
+
 ### Course Work
 TBD
