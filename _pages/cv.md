@@ -18,7 +18,7 @@ date: 2018-01-20T22:20:52+00:00
 
 ### Contact Information
 * E-Mail: woojoong@postech.ac.kr, woojoong@opennetworking.org, or woojoong.m.kim@gmail.com
-* Office: +82-54-379-5665
+* Office: +82-54-279-5665
 * FAX: +82 54-279-5699
 * Address
   * Korea: 77 Chungam-ro (POSTECH), PIRL \#322, Nam-gu, Pohang-Si, Gyeongsangbuk-do, South Korea
