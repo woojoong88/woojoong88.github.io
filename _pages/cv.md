@@ -131,6 +131,7 @@ date: 2018-01-20T22:20:52+00:00
     *	Authors: Young-Joo Suh, Seungho Ryu, **Woojoong Kim**, and James Won-Ki Hong
 
 ### Technical Talk, Demo, etc.
+* Open Networking Foundation (ONF), M-CORD Demonstration in Mobile World Congress, Feb. 2018 (Attended as engineering staff).
 * **Woojoong Kim**, "M-CORD Connectivity: Deep Technical Dive," *CORD Build*, Technical Talk,  Nov. 2017.
 * **Woojoong Kim**, "An off-platform orchestration software for switch-controller placement in ONOS," *ONOS/CORD Working Group Seminar*, Technical Talk, Feb. 2017.
 * **Woojoong Kim**, "A Periodic Switch-Controller Placement Software," *Open Networking Korea (ONK) 2016 Fall*, Demonstration Session, Nov. 2016.
