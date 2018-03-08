@@ -29,7 +29,7 @@ date: 2018-01-20T22:20:52+00:00
 * GitHub: http://github.com/woojoong88
 
 ### Education and Experiences
-* Research scholar (2017.08 ~ ): Open Networking Foundation (ONF), Menlo Park, California, United States.
+* Research scholar (2017.08 ~ 2018.03): Open Networking Foundation (ONF), Menlo Park, California, United States.
 * Ph.D (2012.01 ~ ): Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-Do, Republic of Korea.
 * Software Engineer (2008.01 ~ 2010.03): Application Development Team, Central Computing Center, Republic of Korea Air Force, Gyerong, Chungcheongnam-Do, Republic of Korea (For military service).
 * B.S (2006.03 ~ 2012.02): Department of Computer Engineering, Hongik University, Seoul, Republic of Korea.
@@ -74,7 +74,7 @@ date: 2018-01-20T22:20:52+00:00
     *	Authors: **Woojoong Kim**, James Won-Ki Hong, Young-Joo Suh, and Jian Lee
 *	Title: Channel Selection Method of Communication Node in Communication Network (통신 네트워크에서 통신 노드의 채널 선택 방법)
     *	Applied & Registration Country: Republic of Korea
-    *	Patent No. (Date): TBA (Accepted)
+    *	Patent No. (Date): 10-1817862 (2018.01.05)
     *	Appl. No. (Date): 10-2016-0076433 (2016.06.20)
     *	Assignee: Pohang University of Science and Technology (POSTECH)
     *	Authors: Young-Joo Suh, **Woojoong Kim**, and James Won-Ki Hong
@@ -222,5 +222,5 @@ date: 2018-01-20T22:20:52+00:00
 * CSED 273: Digital System Design (Undergraduage Course Work), Spring 2015.
 * CSED101: Programming \& Problem Solving (Undergraduate Course Work), Spring 2014.
 
-### Course Work
+### Course Work (Computer Science and Engineering)
 TBD
