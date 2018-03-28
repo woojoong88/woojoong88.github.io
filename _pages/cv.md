@@ -29,8 +29,8 @@ date: 2018-01-20T22:20:52+00:00
 * GitHub: http://github.com/woojoong88
 
 ### Education and Experiences
-* Research scholar (2017.08 ~ 2018.03): Open Networking Foundation (ONF), Menlo Park, California, United States.
 * Ph.D (2012.01 ~ ): Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-Do, Republic of Korea.
+* Research scholar (2017.08 ~ 2018.03): Open Networking Foundation (ONF), Menlo Park, California, United States.
 * Software Engineer (2008.01 ~ 2010.03): Application Development Team, Central Computing Center, Republic of Korea Air Force, Gyerong, Chungcheongnam-Do, Republic of Korea (For military service).
 * B.S (2006.03 ~ 2012.02): Department of Computer Engineering, Hongik University, Seoul, Republic of Korea.
 
@@ -66,7 +66,7 @@ date: 2018-01-20T22:20:52+00:00
 * **Woojoong Kim** and Ha Yoon Song, "A Study on Novelty Detection of GPS Data using Human Mobility and OCSVM (One-Class SVM)," in Proc. *KIPS 2011 Spring Conference*, May. 2011.
 
 ### Patents
-*	Title: Method and Apparatus for Placement of Distributed Software Defined Networking Controller (분산형 소프트웨저 정의 네트워킹 컨트롤러의 배치 방법 및 장치)
+*	Title: Method and Apparatus for Placement of Distributed Software Defined Networking Controller (분산형 소프트웨어 정의 네트워킹 컨트롤러의 배치 방법 및 장치)
     *	Applied & Registration Country: Republic of Korea
     *	Parent No. (Date): TBA (under review)
     *	Appl. No. (Date): 10-2017-0127820 (2017.09.29)
