@@ -47,7 +47,7 @@ date: 2018-01-20T22:20:52+00:00
 * **Woojoong Kim** and Ha Yoon Song, "Filtering of Erroneous Positioning Data with Iterative Application of One Class Support Vector Machine," *International Journal of Database Theory and Application (IJDTA)*, vol. 5, no. 1, pp. 67-88, Mar. 2012.
 
 ##### International Conference
-* **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Suh, "Live Distributed Controller Migration for Software-Defined Data Center Networks," To appear *IEEE Network Operations and Management Symposium (NOMS)*.
+* **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Suh, "Live Distributed Controller Migration for Software-Defined Data Center Networks," in Proc *IFIP/IEEE Network Operations and Management Symposium (NOMS)*, Apr. 2018.
 * **Woojoong Kim**, Jae-Pil Jeong, and Young-Joo Suh, "Delayed Dynamic Bandwidth Channel Access Scheme for IEEE 802.11ac WLANs," in Proc. *International Conference of Information Networking (ICOIN)*, Jan. 2017.
 * **Woojoong Kim**, Seungho Ryu, James Won-Ki Hong, and Young-Joo Suh, "WLANMan: A Cloud-based Wireless LAN Management System in ONOS Controllers," in Proc. *IEEE Conference on Computer Communications (INFOCOM) Student Activities Workshop*, Apr. 2016.
 * Seungho Ryu, **Woojoong Kim**, and Young-Joo Suh, "A Block ACK Transmission Scheme for Reliable Multicast in IEEE 802.11 WLANs," in Proc. *IEEE Conference on Computer Communications (INFOCOM) Student Activities Workshop*, Apr. 2016.
