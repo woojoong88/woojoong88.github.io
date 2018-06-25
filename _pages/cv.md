@@ -43,8 +43,8 @@ date: 2018-01-20T22:20:52+00:00
 
 ### Publication
 ##### International Journal
-* **Woojoong Kim**, Jian Li, James Won-Ki Hong, and Young-Joo Suh, "HeS-CoP: Heuristic Switch-Controller Placement Scheme for Distributed SDN Controllers in Data Center Networks," *Wiley International Journal of Network Managment (IJNM)*, vol. 28, no. 3, pp. 1-20, May. 2018.
-* **Woojoong Kim** and Ha Yoon Song, "Filtering of Erroneous Positioning Data with Iterative Application of One Class Support Vector Machine," *International Journal of Database Theory and Application (IJDTA)*, vol. 5, no. 1, pp. 67-88, Mar. 2012.
+* **Woojoong Kim**, Jian Li, James Won-Ki Hong, and Young-Joo Suh, "HeS-CoP: Heuristic Switch-Controller Placement Scheme for Distributed SDN Controllers in Data Center Networks," *Wiley International Journal of Network Managment (IJNM)*, vol. 28, no. 3, pp. 1-20, May. 2018. (SCI(E) journal, 1st and corresponding author).
+* **Woojoong Kim** and Ha Yoon Song, "Filtering of Erroneous Positioning Data with Iterative Application of One Class Support Vector Machine," *International Journal of Database Theory and Application (IJDTA)*, vol. 5, no. 1, pp. 67-88, Mar. 2012. (Non-SCI(E) journal, 1st author).
 
 ##### International Conference
 * **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Suh, "Live Distributed Controller Migration for Software-Defined Data Center Networks," in Proc *IFIP/IEEE Network Operations and Management Symposium (NOMS)*, Apr. 2018.
