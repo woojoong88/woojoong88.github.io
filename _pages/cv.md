@@ -39,7 +39,7 @@ date: 2018-01-20T22:20:52+00:00
 * Software Defined Networking (SDN)
 * Network Function Virtualization (NFV)
 * Cloud Computing and Datacenter Networking
-* Cellular Networks (4G and beyond)
+* Cellular Networks (5G and beyond)
 * Wireless Local Area Networks (IEEE 802.11a/b/g/n/ac)
 
 ### Publication
