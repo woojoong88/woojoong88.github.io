@@ -29,7 +29,8 @@ date: 2018-01-20T22:20:52+00:00
 * GitHub: http://github.com/woojoong88
 
 ### Education and Experiences
-* Ph.D (2012.01 ~ ): Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-Do, Republic of Korea.
+* Member of Technical Staff (2019.03 ~): Open Networking Foundation (ONF), Menlo Park, California, United States (will join).
+* Ph.D (2012.01 ~ 2019.02): Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-Do, Republic of Korea.
 * Research scholar (2017.08 ~ 2018.03): Open Networking Foundation (ONF), Menlo Park, California, United States.
 * Software Engineer (2008.01 ~ 2010.03): Application Development Team, Central Computing Center, Republic of Korea Air Force, Gyerong, Chungcheongnam-Do, Republic of Korea (For military service).
 * B.S (2006.03 ~ 2012.02): Department of Computer Engineering, Hongik University, Seoul, Republic of Korea.
@@ -67,69 +68,69 @@ date: 2018-01-20T22:20:52+00:00
 * **Woojoong Kim** and Ha Yoon Song, "A Study on Novelty Detection of GPS Data using Human Mobility and OCSVM (One-Class SVM)," in Proc. *KIPS 2011 Spring Conference*, May. 2011.
 
 ### Patents
-*	Title: Method and Apparatus for Placement of Distributed Software Defined Networking Controller (분산형 소프트웨어 정의 네트워킹 컨트롤러의 배치 방법 및 장치)
-    *	Applied & Registration Country: Republic of Korea
-    *	Parent No. (Date): TBA (under review)
-    *	Appl. No. (Date): 10-2017-0127820 (2017.09.29)
-    *	Assignee: Pohang University of Science and Technology (POSTECH)
-    *	Authors: **Woojoong Kim**, James Won-Ki Hong, Young-Joo Suh, and Jian Lee
-*	Title: Channel Selection Method of Communication Node in Communication Network (통신 네트워크에서 통신 노드의 채널 선택 방법)
-    *	Applied & Registration Country: Republic of Korea
-    *	Patent No. (Date): 10-1817862 (2018.01.05)
-    *	Appl. No. (Date): 10-2016-0076433 (2016.06.20)
-    *	Assignee: Pohang University of Science and Technology (POSTECH)
-    *	Authors: Young-Joo Suh, **Woojoong Kim**, and James Won-Ki Hong
-*	Title: Location Classifying Method and Electronic Apparatus for the Same Method (위치정보 분류방법 및 이를 위한 장치)
-    *	Applied & Registration Country: Republic of Korea
-    *	Patent No. (Date): 10-1466668 (2014.11.24)
-    *	Appl. No. (Date): 10-2011-0117949 (2011.11.13)
-    *	Assignee: Hongik University (홍익대학교 산학협력단)
-    *	Authors: Ha Yoon Song and **Woojoong Kim**
+*   Title: Method and Apparatus for Placement of Distributed Software Defined Networking Controller (분산형 소프트웨어 정의 네트워킹 컨트롤러의 배치 방법 및 장치)
+    *   Applied & Registration Country: Republic of Korea
+    *   Parent No. (Date): TBA (under review)
+    *   Appl. No. (Date): 10-2017-0127820 (2017.09.29)
+    *   Assignee: Pohang University of Science and Technology (POSTECH)
+    *   Authors: **Woojoong Kim**, James Won-Ki Hong, Young-Joo Suh, and Jian Lee
+*   Title: Channel Selection Method of Communication Node in Communication Network (통신 네트워크에서 통신 노드의 채널 선택 방법)
+    *   Applied & Registration Country: Republic of Korea
+    *   Patent No. (Date): 10-1817862 (2018.01.05)
+    *   Appl. No. (Date): 10-2016-0076433 (2016.06.20)
+    *   Assignee: Pohang University of Science and Technology (POSTECH)
+    *   Authors: Young-Joo Suh, **Woojoong Kim**, and James Won-Ki Hong
+*   Title: Location Classifying Method and Electronic Apparatus for the Same Method (위치정보 분류방법 및 이를 위한 장치)
+    *   Applied & Registration Country: Republic of Korea
+    *   Patent No. (Date): 10-1466668 (2014.11.24)
+    *   Appl. No. (Date): 10-2011-0117949 (2011.11.13)
+    *   Assignee: Hongik University (홍익대학교 산학협력단)
+    *   Authors: Ha Yoon Song and **Woojoong Kim**
 
 
 ### Program Registration
-*	Title: Periodic Mastership Management Software for ONOS Controller (ONOS 컨트롤러의 주기적인 마스터쉽 제어 프로그램)
-    *	Applied & Registration Country: Republic of Korea
-    *	Appl. No. (Date): C-2017-011664 (2017.05.18)
-    *	Production date: 2016.04.01
-    *	Assignee: POSTECH (포항공과대학교 산학협력단)
-    *	Authors: **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Suh
-*	Title: Wireless Network Simulator with Static Bandwidth Channel Access Scheme (정적 대역폭 할당 기법이 적용된 무선 네트워크 시뮬레이터)
-    *	Applied & Registration Country: Republic of Korea
-    *	Appl. No. (Date): C-2016-028251 (2016.11.21)
-    *	Production date: 2016.08.01
-    *	Assignee: POSTECH (포항공과대학교 산학협력단)
-    *	Authors: **Woojoong Kim**, Young Deok Park, and Young-Joo Suh
-*	Title: Wireless Network Simulator with Delayed Dynamic Bandwidth Channel Access Scheme (지연된 동적 대역폭 할당 기법이 적용된 무선 네트워크 시뮬레이터)
-    *	Applied & Registration Country: Republic of Korea
-    *	Appl. No. (Date): C-2016-028250 (2016.11.21)
-    *	Production date: 2016.08.01
-    *	Assignee: POSTECH (포항공과대학교 산학협력단)
-    *	Authors: **Woojoong Kim**, Young Deok Park, and Young-Joo Suh
-*	Title: Wireless Network Simulator with Dynamic Bandwidth Channel Access Scheme (동적 대역폭 할당 기법이 적용된 무선 네트워크 시뮬레이터)
-    *	Applied & Registration Country: Republic of Korea
-    *	Appl. No. (Date): C-2016-026258 (2016.11.07)
-    *	Production date: 2016.08.01
-    *	Assignee: POSTECH (포항공과대학교 산학협력단)
-    *	Authors: **Woojoong Kim**, Young Deok Park, and Young-Joo Suh
-*	Title: Wireless Multicast Simulator with Frame Aggregation Scheme (프레임 직접 기법이 적용된 무선 멀티캐스트 시뮬레이션 프로그램)
-    *	Applied & Registration Country: Republic of Korea
-    *	Appl. No. (Date): C-2016-023168 (2016.09.29)
-    *	Production date: 2016.08.01
-    *	Assignee: POSTECH (포항공과대학교 산학협력단)
-    *	Authors: Young-Joo Suh, Young Deok Park, and **Woojoong Kim**
-*	Title: ONOS-based OpenFlow Traffic Monitoring program (ONOS 기반 OpenFlow 트래픽 모니터링 프로그램)
-    *	Applied & Registration Country: Republic of Korea
-    *	Appl. No. (Date): C-2016-010853 (2016.05.03)
-    *	Production date: 2016.04.01
-    *	Assignee: POSTECH (포항공과대학교 산학협력단)
-    *	Authors: **Woojoong Kim**, Jian Li, James Won-Ki Hong, and Young-Joo Suh
-*	Title: Central Controller-based Wireless AP Management System (중앙 컨트롤러 기반 무선 AP(액세스포인트) 관리 시스템)
-    *	Applied & Registration Country: Republic of Korea
-    *	Appl. No. (Date): C-2016-010393 (2016.04.29)
-    *	Production date: 2016.04.01
-    *	Assignee: POSTECH (포항공과대학교 산학협력단)
-    *	Authors: Young-Joo Suh, Seungho Ryu, **Woojoong Kim**, and James Won-Ki Hong
+*   Title: Periodic Mastership Management Software for ONOS Controller (ONOS 컨트롤러의 주기적인 마스터쉽 제어 프로그램)
+    *   Applied & Registration Country: Republic of Korea
+    *   Appl. No. (Date): C-2017-011664 (2017.05.18)
+    *   Production date: 2016.04.01
+    *   Assignee: POSTECH (포항공과대학교 산학협력단)
+    *   Authors: **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Suh
+*   Title: Wireless Network Simulator with Static Bandwidth Channel Access Scheme (정적 대역폭 할당 기법이 적용된 무선 네트워크 시뮬레이터)
+    *   Applied & Registration Country: Republic of Korea
+    *   Appl. No. (Date): C-2016-028251 (2016.11.21)
+    *   Production date: 2016.08.01
+    *   Assignee: POSTECH (포항공과대학교 산학협력단)
+    *   Authors: **Woojoong Kim**, Young Deok Park, and Young-Joo Suh
+*   Title: Wireless Network Simulator with Delayed Dynamic Bandwidth Channel Access Scheme (지연된 동적 대역폭 할당 기법이 적용된 무선 네트워크 시뮬레이터)
+    *   Applied & Registration Country: Republic of Korea
+    *   Appl. No. (Date): C-2016-028250 (2016.11.21)
+    *   Production date: 2016.08.01
+    *   Assignee: POSTECH (포항공과대학교 산학협력단)
+    *   Authors: **Woojoong Kim**, Young Deok Park, and Young-Joo Suh
+*   Title: Wireless Network Simulator with Dynamic Bandwidth Channel Access Scheme (동적 대역폭 할당 기법이 적용된 무선 네트워크 시뮬레이터)
+    *   Applied & Registration Country: Republic of Korea
+    *   Appl. No. (Date): C-2016-026258 (2016.11.07)
+    *   Production date: 2016.08.01
+    *   Assignee: POSTECH (포항공과대학교 산학협력단)
+    *   Authors: **Woojoong Kim**, Young Deok Park, and Young-Joo Suh
+*   Title: Wireless Multicast Simulator with Frame Aggregation Scheme (프레임 직접 기법이 적용된 무선 멀티캐스트 시뮬레이션 프로그램)
+    *   Applied & Registration Country: Republic of Korea
+    *   Appl. No. (Date): C-2016-023168 (2016.09.29)
+    *   Production date: 2016.08.01
+    *   Assignee: POSTECH (포항공과대학교 산학협력단)
+    *   Authors: Young-Joo Suh, Young Deok Park, and **Woojoong Kim**
+*   Title: ONOS-based OpenFlow Traffic Monitoring program (ONOS 기반 OpenFlow 트래픽 모니터링 프로그램)
+    *   Applied & Registration Country: Republic of Korea
+    *   Appl. No. (Date): C-2016-010853 (2016.05.03)
+    *   Production date: 2016.04.01
+    *   Assignee: POSTECH (포항공과대학교 산학협력단)
+    *   Authors: **Woojoong Kim**, Jian Li, James Won-Ki Hong, and Young-Joo Suh
+*   Title: Central Controller-based Wireless AP Management System (중앙 컨트롤러 기반 무선 AP(액세스포인트) 관리 시스템)
+    *   Applied & Registration Country: Republic of Korea
+    *   Appl. No. (Date): C-2016-010393 (2016.04.29)
+    *   Production date: 2016.04.01
+    *   Assignee: POSTECH (포항공과대학교 산학협력단)
+    *   Authors: Young-Joo Suh, Seungho Ryu, **Woojoong Kim**, and James Won-Ki Hong
 
 ### Technical Talk, Demo, etc.
 * **Woojoong Kim**, "M-CORD 5.0: from Technical Architecture to Implementation," *ONOS/CORD Working Group Seminar*, Technical Talk, Aug. 2019.
@@ -160,31 +161,31 @@ date: 2018-01-20T22:20:52+00:00
 * Aug. 2017 ~ : Central Office Re-architecting as a Datacenter (CORD)
 
 ##### Research Projects
-*	Optimizing Next Generation EWLAN with Implementation and Operation of EWLAN Campus
-    *	Project No.: 2015R1A2A1A15055311
-    *	Period: 2015.11.01 ~ Now
-    *	Supported: National Research Foundation (NRF) of Korea
-    *	Funded: The Ministry of Science, ICT, and Future Planning (MSIP)
-*	K-ONE (Korea - Open Networking Everywhere): Global SDN/NFV Open Source Software Core Module/Function Development
-    *	Project No.: B190-15-2012
-    *	Period: 2015.06.01 ~ Now
-    *	Supported: Institute for Information & Communications Technology Promotion (IITP)
-    *	Funded: The Ministry of Science, ICT, and Future Planning (MSIP)
-*	Key Techniques for Optimizing Performance of Enterprise Wireless LANs (엔터프라이즈 무선랜의 성능 최적화를 위한 요소 기술 개발)
-    *	Project No.: 2011-0029034
-    *	Period: 2013.09~2014.08
-    *	Supported: Basic Science Research Program through National Research Foundation (NRF) of Korea
-    *	Funded: The Ministry of Education
-*	Research on Femtocell Technologies for Providing High-Speed Data Service in Indoor Environments (실내 고속 데이터 서비스 제공을 위한 펨토셀 요소기술 연구)
-    *	Project No.: 2010-0024938
-    *	Period: 2012.06~2013.08
-    *	Supported: Basic Science Research Program through National Research Foundation (NRF) of Korea
-    *	Funded: The Ministry of Education, Science and Technology of Korea
-*	Research on Individual Mobility Model of Human based on Heterogeneous Academic Results (이종 학문에 기반한 인간의 개별 모빌리티 모델 통합 연구)
-    *	Project No.:2011-0025875
-    *	Period: 2010.03~2012.02
-    *	Supported: Basic Science Research Program through National Research Foundation (NRF) of Korea
-    *	Funded: The Ministry of Education, Science and Technology
+*   Optimizing Next Generation EWLAN with Implementation and Operation of EWLAN Campus
+    *   Project No.: 2015R1A2A1A15055311
+    *   Period: 2015.11.01 ~ Now
+    *   Supported: National Research Foundation (NRF) of Korea
+    *   Funded: The Ministry of Science, ICT, and Future Planning (MSIP)
+*   K-ONE (Korea - Open Networking Everywhere): Global SDN/NFV Open Source Software Core Module/Function Development
+    *   Project No.: B190-15-2012
+    *   Period: 2015.06.01 ~ Now
+    *   Supported: Institute for Information & Communications Technology Promotion (IITP)
+    *   Funded: The Ministry of Science, ICT, and Future Planning (MSIP)
+*   Key Techniques for Optimizing Performance of Enterprise Wireless LANs (엔터프라이즈 무선랜의 성능 최적화를 위한 요소 기술 개발)
+    *   Project No.: 2011-0029034
+    *   Period: 2013.09~2014.08
+    *   Supported: Basic Science Research Program through National Research Foundation (NRF) of Korea
+    *   Funded: The Ministry of Education
+*   Research on Femtocell Technologies for Providing High-Speed Data Service in Indoor Environments (실내 고속 데이터 서비스 제공을 위한 펨토셀 요소기술 연구)
+    *   Project No.: 2010-0024938
+    *   Period: 2012.06~2013.08
+    *   Supported: Basic Science Research Program through National Research Foundation (NRF) of Korea
+    *   Funded: The Ministry of Education, Science and Technology of Korea
+*   Research on Individual Mobility Model of Human based on Heterogeneous Academic Results (이종 학문에 기반한 인간의 개별 모빌리티 모델 통합 연구)
+    *   Project No.:2011-0025875
+    *   Period: 2010.03~2012.02
+    *   Supported: Basic Science Research Program through National Research Foundation (NRF) of Korea
+    *   Funded: The Ministry of Education, Science and Technology
 
 ##### Military Projects
 * Implementation and Maintenance of Single Sign On (SSO) for Intranet of Republic of Korea Air Force (ROKAF)
