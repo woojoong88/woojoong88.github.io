@@ -44,7 +44,7 @@ date: 2018-01-20T22:20:52+00:00
 
 ### Publication
 ##### International Journal
-* **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Shu, "DCORAL: A Dynamic Controller Resource Allocation for Elastic Control Plane in Software Defined Data Center Networks," to Appear *IEEE Communications Letters*.
+* **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Shu, "T-DCORAL: A Threashold-based Dynamic Controller Resource Allocation for Elastic Control Plane in Software Defined Data Center Networks," to Appear *IEEE Communications Letters*.
 * **Woojoong Kim**, Jian Li, James Won-Ki Hong, and Young-Joo Suh, "HeS-CoP: Heuristic Switch-Controller Placement Scheme for Distributed SDN Controllers in Data Center Networks," *Wiley International Journal of Network Managment (IJNM)*, vol. 28, no. 3, pp. 1-20, May. 2018. (SCI(E) journal, 1st and corresponding author).
 * **Woojoong Kim** and Ha Yoon Song, "Filtering of Erroneous Positioning Data with Iterative Application of One Class Support Vector Machine," *International Journal of Database Theory and Application (IJDTA)*, vol. 5, no. 1, pp. 67-88, Mar. 2012. (Non-SCI(E) journal, 1st author).
 
