@@ -133,7 +133,8 @@ date: 2018-01-20T22:20:52+00:00
     *   Authors: Young-Joo Suh, Seungho Ryu, **Woojoong Kim**, and James Won-Ki Hong
 
 ### Technical Talk, Demo, etc.
-* **Woojoong Kim**, "M-CORD 5.0: from Technical Architecture to Implementation," *ONOS/CORD Working Group Seminar*, Technical Talk, Aug. 2019.
+* **Woojoong Kim** and Jibum Hong, "Design and Implementation of M-CORD Monitoring System," *Open Networking Korea (ONK) 2018 Fall*, Demonstration Session, Oct. 2018
+* **Woojoong Kim**, "M-CORD 5.0: from Technical Architecture to Implementation," *ONOS/CORD Working Group Seminar*, Technical Talk, Aug. 2018.
 * Open Networking Foundation (ONF), M-CORD Demonstration in Mobile World Congress, Feb. 2018 (Attended as engineering staff).
 * **Woojoong Kim**, "M-CORD Connectivity: Deep Technical Dive," *CORD Build*, Technical Talk,  Nov. 2017.
 * **Woojoong Kim**, "An off-platform orchestration software for switch-controller placement in ONOS," *ONOS/CORD Working Group Seminar*, Technical Talk, Feb. 2017.
