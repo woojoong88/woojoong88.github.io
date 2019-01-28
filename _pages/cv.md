@@ -13,11 +13,11 @@ date: 2018-01-20T22:20:52+00:00
 
 ### Postdoc. and Contractor
 * Postdoc.
- * Mobile Networking (MoNet) Lab. (Advisor: Prof. Young-Joo Suh)
- * POSTECH Information Research Laboratories (PIRL)
- * Pohang University of Science and Technology (POSTECH)
+  * Mobile Networking (MoNet) Lab. (Advisor: Prof. Young-Joo Suh)
+  * POSTECH Information Research Laboratories (PIRL)
+  * Pohang University of Science and Technology (POSTECH)
 * Contractor
- * Open Networking Foundation (ONF) Mobility Team
+  * Open Networking Foundation (ONF) Mobility Team
 
 ### Contact Information
 * E-Mail: woojoong@postech.ac.kr, woojoong@opennetworking.org, or woojoong.m.kim@gmail.com
