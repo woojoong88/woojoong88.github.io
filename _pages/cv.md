@@ -8,13 +8,16 @@ author_profile: true
 date: 2018-01-20T22:20:52+00:00
 ---
 
-# Name: Woojoong Kim (김우중)
+# Name: Woojoong Kim (김우중) Ph.D
 -----
 
-### Ph.D Student
-* Mobile Networking (MoNet) Lab. (Advisor: Prof. Young-Joo Suh)
-* Department of Computer Science and Engineering
-* Pohang University of Science and Technology (POSTECH)
+### Postdoc. and Contractor
+* Postdoc.
+ * Mobile Networking (MoNet) Lab. (Advisor: Prof. Young-Joo Suh)
+ * POSTECH Information Research Laboratories (PIRL)
+ * Pohang University of Science and Technology (POSTECH)
+* Contractor
+ * Open Networking Foundation (ONF) Mobility Team
 
 ### Contact Information
 * E-Mail: woojoong@postech.ac.kr, woojoong@opennetworking.org, or woojoong.m.kim@gmail.com
@@ -30,6 +33,8 @@ date: 2018-01-20T22:20:52+00:00
 
 ### Education and Experiences
 * Member of Technical Staff (2019.03 ~): Open Networking Foundation (ONF), Menlo Park, California, United States (will join).
+* Contractor (2019.01 ~ 2019.02): Open Networking Foundation (ONF), Menlo Park, California, United States.
+* Postdoc. (2019.02 ~ 2019.04): POSTECH Information Research Laboratories, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsandbuk-Do, Republic of Korea.
 * Ph.D (2012.01 ~ 2019.02): Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-Do, Republic of Korea.
 * Research scholar (2017.08 ~ 2018.03): Open Networking Foundation (ONF), Menlo Park, California, United States.
 * Software Engineer (2008.01 ~ 2010.03): Application Development Team, Central Computing Center, Republic of Korea Air Force, Gyerong, Chungcheongnam-Do, Republic of Korea (For military service).
