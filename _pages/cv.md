@@ -12,10 +12,6 @@ date: 2018-01-20T22:20:52+00:00
 -----
 
 ### Postdoc. and Contractor
-* Postdoc.
-  * Mobile Networking (MoNet) Lab. (Advisor: Prof. Young-Joo Suh)
-  * POSTECH Information Research Laboratories (PIRL)
-  * Pohang University of Science and Technology (POSTECH)
 * Contractor
   * Open Networking Foundation (ONF) Mobility Team
 
@@ -32,8 +28,8 @@ date: 2018-01-20T22:20:52+00:00
 * GitHub: http://github.com/woojoong88
 
 ### Education and Experiences
-* Member of Technical Staff (2019.03 ~): Open Networking Foundation (ONF), Menlo Park, California, United States (will join).
-* Contractor (2019.01 ~ 2019.02): Open Networking Foundation (ONF), Menlo Park, California, United States.
+* Member of Technical Staff (2019.06 ~): Open Networking Foundation (ONF), Menlo Park, California, United States (will join).
+* Contractor (2019.01 ~ 2019.05): Open Networking Foundation (ONF), Menlo Park, California, United States.
 * Postdoc. (2019.02 ~ 2019.04): POSTECH Information Research Laboratories, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsandbuk-Do, Republic of Korea.
 * Ph.D (2012.01 ~ 2019.02): Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-Do, Republic of Korea.
 * Research scholar (2017.08 ~ 2018.03): Open Networking Foundation (ONF), Menlo Park, California, United States.
@@ -75,7 +71,7 @@ date: 2018-01-20T22:20:52+00:00
 ### Patents
 *   Title: Method and Apparatus for Placement of Distributed Software Defined Networking Controller (분산형 소프트웨어 정의 네트워킹 컨트롤러의 배치 방법 및 장치)
     *   Applied & Registration Country: Republic of Korea
-    *   Parent No. (Date): TBA (under review)
+    *   Patent No. (Date): 10-1963512 (2019.03.22)
     *   Appl. No. (Date): 10-2017-0127820 (2017.09.29)
     *   Assignee: Pohang University of Science and Technology (POSTECH)
     *   Authors: **Woojoong Kim**, James Won-Ki Hong, Young-Joo Suh, and Jian Lee
