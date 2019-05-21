@@ -134,6 +134,7 @@ date: 2018-01-20T22:20:52+00:00
     *   Authors: Young-Joo Suh, Seungho Ryu, **Woojoong Kim**, and James Won-Ki Hong
 
 ### Technical Talk, Demo, etc.
+* **Woojoong Kim**, "COMAC: Technical Deep Dive on Kubernetes-based 5G MEC," *ONOS/CORD/Kubernetes Working Group Seminar*, Technical Talk, May. 2019.
 * **Woojoong Kim** and Jibum Hong, "Design and Implementation of M-CORD Monitoring System," *Open Networking Korea (ONK) 2018 Fall*, Demonstration Session, Oct. 2018
 * **Woojoong Kim**, "M-CORD 5.0: from Technical Architecture to Implementation," *ONOS/CORD Working Group Seminar*, Technical Talk, Aug. 2018.
 * Open Networking Foundation (ONF), M-CORD Demonstration in Mobile World Congress, Feb. 2018 (Attended as engineering staff).
@@ -146,6 +147,9 @@ date: 2018-01-20T22:20:52+00:00
 * Silver award at K-ICT Net Challenge Camp Season 3, 2016.
 
 ### Academic Activities
+* Reviewer, IEEE Access, 2019.
+* Reviewer, IEEE/ACM Transactions on Networking (ToN), 2019.
+* Lecturer, CORD & M-CORD, POSTECH MOOC, 2018.
 * Reviewer, IEEE Transactions on Vehicular Technology (TVT), 2018.
 * Reviewer, IEEE Access, 2017
 * Reviewer, Springer Wireless Personal Communications (WPC), 2017
