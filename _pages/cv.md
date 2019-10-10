@@ -16,11 +16,8 @@ date: 2018-01-20T22:20:52+00:00
   * Open Networking Foundation (ONF) Mobility Team
 
 ### Contact Information
-* E-Mail: woojoong@postech.ac.kr, woojoong@opennetworking.org, or woojoong.m.kim@gmail.com
-* Office: +82-54-279-5665
-* FAX: +82 54-279-5699
+* E-Mail: woojoong@opennetworking.org or woojoong.m.kim@gmail.com
 * Address
-  * Korea: 77 Chungam-ro (POSTECH), PIRL \#322, Nam-gu, Pohang-Si, Gyeongsangbuk-do, South Korea
   * US: 1000 El Camino Real, Suite 100 (Open Networking Foundation), Menlo Park, CA, US
 * LinkedIn: https://www.linkedin.com/in/woojoong/
 * Facebook: https://www.facebook.com/woojoong88
@@ -50,6 +47,7 @@ date: 2018-01-20T22:20:52+00:00
 * **Woojoong Kim** and Ha Yoon Song, "Filtering of Erroneous Positioning Data with Iterative Application of One Class Support Vector Machine," *International Journal of Database Theory and Application (IJDTA)*, vol. 5, no. 1, pp. 67-88, Mar. 2012. (Non-SCI(E) journal, 1st author).
 
 ##### International Conference
+* Jibum Hong, **Woojoong Kim**, Jaw-Hyoung Yoo, and James Won-Ki Hong, "Design and Implementation of Container-based M-CORD Monitoring System," in Proc Asia-Pacific Network Operations and Management Symposium (APNOMS), Sep. 2019.
 * **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Suh, "Live Distributed Controller Migration for Software-Defined Data Center Networks," in Proc *IFIP/IEEE Network Operations and Management Symposium (NOMS)*, Apr. 2018.
 * **Woojoong Kim**, Jae-Pil Jeong, and Young-Joo Suh, "Delayed Dynamic Bandwidth Channel Access Scheme for IEEE 802.11ac WLANs," in Proc. *International Conference of Information Networking (ICOIN)*, Jan. 2017.
 * **Woojoong Kim**, Seungho Ryu, James Won-Ki Hong, and Young-Joo Suh, "WLANMan: A Cloud-based Wireless LAN Management System in ONOS Controllers," in Proc. *IEEE Conference on Computer Communications (INFOCOM) Student Activities Workshop*, Apr. 2016.
