@@ -41,13 +41,16 @@ date: 2018-01-20T22:20:52+00:00
 * Wireless Local Area Networks (IEEE 802.11a/b/g/n/ac)
 
 ### Publication
+##### Doctoral Dissertation
+* **Woojoong Kim**, "Efficient Control Plane Management for Software-Defined Networks," Ph.D Dissertation, Dept. of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), South Korea, Feb. 2019.
+
 ##### International Journal
-* **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Shu, "T-DCORAL: A Threashold-based Dynamic Controller Resource Allocation for Elastic Control Plane in Software Defined Data Center Networks," *IEEE Communications Letters*, vol. 23, no. 2, pp. 198-201, Feb. 2019 (SCI journal, 1st and corresponding author, IF=2.723 at 2017).
+* **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Suh, "T-DCORAL: A Threashold-based Dynamic Controller Resource Allocation for Elastic Control Plane in Software Defined Data Center Networks," *IEEE Communications Letters*, vol. 23, no. 2, pp. 198-201, Feb. 2019 (SCI journal, 1st and corresponding author, IF=2.723 at 2017).
 * **Woojoong Kim**, Jian Li, James Won-Ki Hong, and Young-Joo Suh, "HeS-CoP: Heuristic Switch-Controller Placement Scheme for Distributed SDN Controllers in Data Center Networks," *Wiley International Journal of Network Managment (IJNM)*, vol. 28, no. 3, pp. 1-20, May. 2018. (SCIE journal, 1st and corresponding author, IF=1.340 at 2017).
 * **Woojoong Kim** and Ha Yoon Song, "Filtering of Erroneous Positioning Data with Iterative Application of One Class Support Vector Machine," *International Journal of Database Theory and Application (IJDTA)*, vol. 5, no. 1, pp. 67-88, Mar. 2012. (Non-SCI(E) journal, 1st author).
 
 ##### International Conference
-* Jibum Hong, **Woojoong Kim**, Jaw-Hyoung Yoo, and James Won-Ki Hong, "Design and Implementation of Container-based M-CORD Monitoring System," in Proc Asia-Pacific Network Operations and Management Symposium (APNOMS), Sep. 2019.
+* Jibum Hong, **Woojoong Kim**, Jae-Hyoung Yoo, and James Won-Ki Hong, "Design and Implementation of Container-based M-CORD Monitoring System," in Proc Asia-Pacific Network Operations and Management Symposium (APNOMS), Sep. 2019.
 * **Woojoong Kim**, James Won-Ki Hong, and Young-Joo Suh, "Live Distributed Controller Migration for Software-Defined Data Center Networks," in Proc *IFIP/IEEE Network Operations and Management Symposium (NOMS)*, Apr. 2018.
 * **Woojoong Kim**, Jae-Pil Jeong, and Young-Joo Suh, "Delayed Dynamic Bandwidth Channel Access Scheme for IEEE 802.11ac WLANs," in Proc. *International Conference of Information Networking (ICOIN)*, Jan. 2017.
 * **Woojoong Kim**, Seungho Ryu, James Won-Ki Hong, and Young-Joo Suh, "WLANMan: A Cloud-based Wireless LAN Management System in ONOS Controllers," in Proc. *IEEE Conference on Computer Communications (INFOCOM) Student Activities Workshop*, Apr. 2016.
