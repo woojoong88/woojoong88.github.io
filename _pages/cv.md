@@ -69,6 +69,10 @@ date: 2018-01-20T22:20:52+00:00
 * **Woojoong Kim** and Ha Yoon Song, "Optimization Conditions of OCSVM for GPS Data Filtering," in Proc. *KCC 2011 Fall Conference*, Nov. 2011.
 * **Woojoong Kim** and Ha Yoon Song, "A Study on Novelty Detection of GPS Data using Human Mobility and OCSVM (One-Class SVM)," in Proc. *KIPS 2011 Spring Conference*, May. 2011.
 
+##### White Papers
+* Oguz Sunay, Shad Ansari, Sean Condon, Jordan Halterman, **Woojoong Kim**, Ray Milkey, Guru Parulkar, Larry Peterson, Adib Rastegarnia, and Thomas Vachuska, "SD-RAN: ONF's Software-Defined RAN Platform Consistent with the O-RAN Architecture," White Paper, Open Networking Foundation, Feb. 2020.
+* Oguz Sunay, Shad Ansari, **Woojoong Kim**, Pingping Lin, Hyunsun Moon, Badhrinath Padmanabhan, Guru Parulkar, Larry Peterson, and Ajay Thakur, "Aether: Enterprise-5G/LTE-Edge-Cloud-as-a-Service," White Paper, Open Networking Foundation, Feb. 2020.
+
 ### Patents
 *   Title: Method and Apparatus for Placement of Distributed Software Defined Networking Controller (분산형 소프트웨어 정의 네트워킹 컨트롤러의 배치 방법 및 장치)
     *   Applied & Registration Country: Republic of Korea
@@ -88,7 +92,6 @@ date: 2018-01-20T22:20:52+00:00
     *   Appl. No. (Date): 10-2011-0117949 (2011.11.13)
     *   Assignee: Hongik University (홍익대학교 산학협력단)
     *   Authors: Ha Yoon Song and **Woojoong Kim**
-
 
 ### Program Registration
 *   Title: Periodic Mastership Management Software for ONOS Controller (ONOS 컨트롤러의 주기적인 마스터쉽 제어 프로그램)
@@ -148,6 +151,8 @@ date: 2018-01-20T22:20:52+00:00
 * Silver award at K-ICT Net Challenge Camp Season 3, 2016.
 
 ### Academic Activities
+* Reviewer, IET Networks, 2020
+* Reviewer, IEEE Transactions on Network Service and Management (TNSM), 2020
 * Reviewer, IEEE Access, 2019.
 * Reviewer, IEEE/ACM Transactions on Networking (ToN), 2019.
 * Lecturer, CORD & M-CORD, POSTECH MOOC, 2018.
