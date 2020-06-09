@@ -11,9 +11,9 @@ date: 2018-01-20T22:20:52+00:00
 # Name: Woojoong Kim (김우중) Ph.D
 -----
 
-### Postdoc. and Contractor
-* Contractor
-  * Open Networking Foundation (ONF) Mobility Team
+### Title
+* Member of Technical Staff (MTS)
+  * Open Networking Foundation (ONF) Mobility Team for Aether and SD-RAN projects
 
 ### Contact Information
 * E-Mail: woojoong@opennetworking.org or woojoong.m.kim@gmail.com
@@ -169,33 +169,51 @@ date: 2018-01-20T22:20:52+00:00
 
 ### Projects
 ##### Open-Source Projects
-* Feb. 2018 ~ : Open Network Operating System (ONOS)
-* Aug. 2017 ~ : Central Office Re-architecting as a Datacenter (CORD)
+* Aug. 2017 ~ : ONF - Central Office Re-architecting as a Datacenter (CORD) - Commiter
+* Oct. 2019 ~ : ONF - Aether - Commiter
+* Dec. 2019 ~ : ONF - SD-RAN - Commiter
+* Dec. 2019 ~ : ONF - Open Network Operating System (ONOS) and µONOS - Commiter
 
-##### Research Projects
+##### Research & Development Projects
+*   Software-Defined Radio Access Network (SD-RAN) Project
+    *   Partially Open Source Project
+    *   Period: 2019.12 ~ Now
+    *   Organization: Open Networking Foundation (ONF)
+*   Aether Project - Enterprise 5G Edge-Cloud-as-a-Service
+    *   Partially Open Source Project
+    *   Period: 2019.10 ~ Now
+    *   Organization: Open Networking Foundation (ONF)
+*   Open network Operating System (ONOS) and µONOS Projects
+    *   Open Source Project
+    *   Period: 2019.12 ~ Now
+    *   Organization: Open Networking Foundation (ONF)
+*   Central Office Re-architecting as a Datacenter (CORD) and Mobile CORD (M-CORD) Projects
+    *   Open Source Project
+    *   Period: 2017.08 ~ Now
+    *   Organization: Open Networking Foundation (ONF)
 *   Optimizing Next Generation EWLAN with Implementation and Operation of EWLAN Campus
     *   Project No.: 2015R1A2A1A15055311
-    *   Period: 2015.11.01 ~ Now
+    *   Period: 2015.11 ~ 2017.10
     *   Supported: National Research Foundation (NRF) of Korea
     *   Funded: The Ministry of Science, ICT, and Future Planning (MSIP)
 *   K-ONE (Korea - Open Networking Everywhere): Global SDN/NFV Open Source Software Core Module/Function Development
     *   Project No.: B190-15-2012
-    *   Period: 2015.06.01 ~ Now
+    *   Period: 2015.06 ~ 2019.01
     *   Supported: Institute for Information & Communications Technology Promotion (IITP)
     *   Funded: The Ministry of Science, ICT, and Future Planning (MSIP)
 *   Key Techniques for Optimizing Performance of Enterprise Wireless LANs (엔터프라이즈 무선랜의 성능 최적화를 위한 요소 기술 개발)
     *   Project No.: 2011-0029034
-    *   Period: 2013.09~2014.08
+    *   Period: 2013.09 ~ 2014.08
     *   Supported: Basic Science Research Program through National Research Foundation (NRF) of Korea
     *   Funded: The Ministry of Education
 *   Research on Femtocell Technologies for Providing High-Speed Data Service in Indoor Environments (실내 고속 데이터 서비스 제공을 위한 펨토셀 요소기술 연구)
     *   Project No.: 2010-0024938
-    *   Period: 2012.06~2013.08
+    *   Period: 2012.06 ~ 2013.08
     *   Supported: Basic Science Research Program through National Research Foundation (NRF) of Korea
     *   Funded: The Ministry of Education, Science and Technology of Korea
 *   Research on Individual Mobility Model of Human based on Heterogeneous Academic Results (이종 학문에 기반한 인간의 개별 모빌리티 모델 통합 연구)
     *   Project No.:2011-0025875
-    *   Period: 2010.03~2012.02
+    *   Period: 2010.03 ~ 2012.02
     *   Supported: Basic Science Research Program through National Research Foundation (NRF) of Korea
     *   Funded: The Ministry of Education, Science and Technology
 
@@ -209,18 +227,23 @@ date: 2018-01-20T22:20:52+00:00
 * English: Full professional proficiency
 
 ##### Programming Language Skills
+* GO language
 * JAVA and JAVA JSP
 * C/C++
 * Python
 * Linux/Unix Shell script
 * LaTex
 * SQL
+* Kubernetes/Helm
+* Vagrant
 
 ##### Framework Programming Skills
 * Spring Framwork
 * Struts Framework
 * Open Network Operating System (ONOS)
 * Central Office Re-architecting as a Datacenter (CORD)
+* ONF Aether
+* ONF SD-RAN
 
 ### Hobby
 * Playing guitar
