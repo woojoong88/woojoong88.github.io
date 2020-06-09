@@ -11,7 +11,7 @@ date: 2018-01-20T22:20:52+00:00
 # Name: Woojoong Kim (김우중) Ph.D
 -----
 
-### Title
+### Affiliation
 * Member of Technical Staff (MTS)
   * Open Networking Foundation (ONF) Mobility Team for Aether and SD-RAN projects
 
